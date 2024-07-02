@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores</title>
+</head>
+
+<style>
+    img {
+        width: 200px;
+    }
+</style>
+
+<body>
+    <div id="times">
+
+    </div>
+
+
+
+    <script>
+        // Sempre vai declarar variaveis sempre que possível
+
+        const time = "Flamengo";
+
+        const baseDeDados = [
+            "Flamengo",
+            "Atlético Mineiro",
+            "Palmeiras",
+            "Santos",
+            "Cruzeiro",
+            "Botafogo"
+        ];
+
+        const imagens = [
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/800px-Flamengo_braz_logo.svg.png'
+        ];
+
+        const dados = [
+            { time: "Flamengo", imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/800px-Flamengo_braz_logo.svg.png", pontos: "99 pontos" },
+            {time: "Atletico M.", imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Atletico_mineiro_galo.png/1200px-Atletico_mineiro_galo.png", pontos: "0 pontos"}
+        ];
+
+        //SELETOR
+        const divTimes = document.getElementById("times");
+
+        // ESTRUTURA DE REPETIÇÃO
+        for (const item of baseDeDados) {
+            divTimes.innerHTML += `
+                <h4>${item}</h4>
+            `
+        };
+
+        for (const item of imagens) {
+            divTimes.innerHTML += `
+                <img src="${item}" >
+            `
+        }
+
+        for (const item of dados) {
+            divTimes.innerHTML += `
+                <h4>${item.time}</h4>
+                <img src="${item.imagem}">
+                <p>${item.pontos}</p>
+            `
+        }
+
+    </script>
+</body>
+
+</html>
