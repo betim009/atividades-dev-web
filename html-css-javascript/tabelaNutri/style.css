@@ -1,0 +1,31 @@
+* {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin-top: 20px;
+}
+
+table tr, td, th {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+thead tr {
+    text-align: left;
+    background-color: rgb(43, 109, 175);
+    color: white;
+}
+
+button {
+    border: none;
+    background-color: rgb(43, 109, 175);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
