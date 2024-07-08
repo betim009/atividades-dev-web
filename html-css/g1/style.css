@@ -1,0 +1,70 @@
+body {
+    background-color: #ededed;
+}
+
+h3 {
+    font-size: 26px;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.div-grid-2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+    width: 60%;
+}
+
+.height-600 {
+    height: 600px;
+}
+
+.coluna-white {
+    background-color: white;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.text-red {
+    color: rgb(158, 15, 15);
+}
+
+.coluna-1 p {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.img-background {
+    background-image: url('https://s2-g1.glbimg.com/JQkO1n34TbRLKfRjX4qbu4je7r0=/0x0:650x658/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/U/sGQPNSSt6oCkdUKG9bjQ/mike-heslin.png');
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+.titulo-white {
+    color: white;
+}
+
+.div-flex-end {
+    padding: 10px;
+    display: flex;
+    align-items: end;
+}
+
+.img-background-pm {
+    background-image: url('https://s2-g1.glbimg.com/Mn3x9aCGpVa0KdbMzYrDHYwQ0BY=/0x0:1919x1030/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/C/ocG1qOSpSt1VMZ54oEAA/imagemabordagem.jpg');
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}

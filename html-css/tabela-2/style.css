@@ -1,0 +1,52 @@
+.tabela {
+    width: 600px;
+    font-size: 20px;
+}
+
+table,
+td {
+    border: 1.5px solid blue;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(140, 186, 243);
+}
+
+.cabecalho {
+    background-color: rgb(11, 89, 185);
+    color: white;
+}
+
+.linha-produto {
+    text-align: center;
+}
+
+.div-form {
+    margin-top: 30px;
+    background-color: #ededed;
+    padding: 30px;
+    width: 460px;
+}
+
+.div-input {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.div-inputMensagem {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.enviarMensagem {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}

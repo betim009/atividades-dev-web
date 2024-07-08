@@ -1,0 +1,39 @@
+.div-grid-3 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    justify-content: center;
+
+    margin-bottom: 100px;
+}
+
+.div-grid-3 div {
+    width: 330px;
+    border-radius: 10px;
+}
+
+img {
+    width: 330px;
+    border-radius: 10px 10px 0 0;
+}
+
+.div-card {
+    background-color: #ededed;
+    border: 1px solid black;
+}
+
+.card-texto {
+    padding: 10px;
+}
+
+.div-grid-2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.text-red {
+    color: rgb(147, 26, 26);
+    font-family: sans-serif;
+    font-size: 26px;
+}
