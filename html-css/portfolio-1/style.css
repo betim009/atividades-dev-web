@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    font-family: "Rubik", sans-serif;
+}
+
+header,
+footer {
+    background-color: rgb(3, 64, 108);
+    color: white;
+}
+
+header {
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer {
+    height: 300px;
+}
+
+nav a {
+    color: white;
+}
+
+.quem-sou {
+    display: flex;
+    justify-content: center;
+    background-color: #ededed;
+    padding: 10px;
+}
+
+.quem-sou div {
+    background-color: white;
+    width: 80%;
+}
+
+.meus-projetos {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+}
+
+.meus-projetos div {
+    background-color: #ededed;
+    width: 80%;
+}
+
+.contato {
+    display: flex;
+    justify-content: center;
+    background-color: #ededed;
+    padding: 10px;
+}
+
+.contato div {
+    background-color: white;
+    width: 80%;
+}
+
+.img-perfil {
+    width: 300px;
+}
