@@ -1,0 +1,264 @@
+{
+    "financiamentos": [
+        {
+            "id": 1,
+            "tipo": "fgts",
+            "descricao": "Financiamento com uso do FGTS",
+            "taxaJuros": 3.5,
+            "prazoMaximo": 360,
+            "valorMaximo": 500000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "tempoMinimoTrabalho": 3
+            }
+        },
+        {
+            "id": 2,
+            "tipo": "consignado",
+            "descricao": "Empréstimo consignado",
+            "taxaJuros": 2.1,
+            "prazoMaximo": 96,
+            "valorMaximo": 100000,
+            "requisitos": {
+                "idadeMinima": 21,
+                "idadeMaxima": 75,
+                "vinculoEmpregaticio": true
+            }
+        },
+        {
+            "id": 3,
+            "tipo": "imobiliario",
+            "descricao": "Financiamento imobiliário",
+            "taxaJuros": 4.2,
+            "prazoMaximo": 420,
+            "valorMaximo": 1000000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "comprovacaoRenda": true
+            }
+        },
+        {
+            "id": 4,
+            "tipo": "automotivo",
+            "descricao": "Financiamento de veículos",
+            "taxaJuros": 3.0,
+            "prazoMaximo": 60,
+            "valorMaximo": 150000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "comprovacaoRenda": true
+            }
+        },
+        {
+            "id": 5,
+            "tipo": "estudantil",
+            "descricao": "Financiamento estudantil",
+            "taxaJuros": 2.5,
+            "prazoMaximo": 120,
+            "valorMaximo": 50000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 50,
+                "matriculaAtiva": true
+            }
+        },
+        {
+            "id": 6,
+            "tipo": "empresarial",
+            "descricao": "Financiamento para empresas",
+            "taxaJuros": 5.0,
+            "prazoMaximo": 180,
+            "valorMaximo": 2000000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "comprovacaoFaturamento": true
+            }
+        },
+        {
+            "id": 7,
+            "tipo": "rural",
+            "descricao": "Financiamento rural",
+            "taxaJuros": 3.8,
+            "prazoMaximo": 240,
+            "valorMaximo": 1000000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "propriedadeRural": true
+            }
+        },
+        {
+            "id": 8,
+            "tipo": "pessoal",
+            "descricao": "Empréstimo pessoal",
+            "taxaJuros": 6.0,
+            "prazoMaximo": 48,
+            "valorMaximo": 50000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 65,
+                "comprovacaoRenda": true
+            }
+        },
+        {
+            "id": 9,
+            "tipo": "reformarCasa",
+            "descricao": "Financiamento para reforma de casa",
+            "taxaJuros": 4.5,
+            "prazoMaximo": 120,
+            "valorMaximo": 100000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "comprovacaoResidencia": true
+            }
+        },
+        {
+            "id": 10,
+            "tipo": "saude",
+            "descricao": "Financiamento para despesas de saúde",
+            "taxaJuros": 3.2,
+            "prazoMaximo": 60,
+            "valorMaximo": 30000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 65,
+                "comprovacaoDespesas": true
+            }
+        },
+        {
+            "id": 11,
+            "tipo": "turismo",
+            "descricao": "Financiamento para viagens",
+            "taxaJuros": 4.8,
+            "prazoMaximo": 24,
+            "valorMaximo": 20000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 60,
+                "comprovacaoViagem": true
+            }
+        },
+        {
+            "id": 12,
+            "tipo": "tecnologico",
+            "descricao": "Financiamento para compra de equipamentos tecnológicos",
+            "taxaJuros": 3.6,
+            "prazoMaximo": 36,
+            "valorMaximo": 50000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 60,
+                "comprovacaoCompra": true
+            }
+        },
+        {
+            "id": 13,
+            "tipo": "energiaSolar",
+            "descricao": "Financiamento para instalação de energia solar",
+            "taxaJuros": 2.9,
+            "prazoMaximo": 240,
+            "valorMaximo": 150000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "propriedadeImovel": true
+            }
+        },
+        {
+            "id": 14,
+            "tipo": "mobiliario",
+            "descricao": "Financiamento para compra de móveis",
+            "taxaJuros": 4.1,
+            "prazoMaximo": 60,
+            "valorMaximo": 30000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 65,
+                "comprovacaoCompra": true
+            }
+        },
+        {
+            "id": 15,
+            "tipo": "linhaBranca",
+            "descricao": "Financiamento para compra de eletrodomésticos",
+            "taxaJuros": 3.3,
+            "prazoMaximo": 48,
+            "valorMaximo": 20000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 65,
+                "comprovacaoCompra": true
+            }
+        },
+        {
+            "id": 16,
+            "tipo": "evento",
+            "descricao": "Financiamento para eventos",
+            "taxaJuros": 5.5,
+            "prazoMaximo": 24,
+            "valorMaximo": 50000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 60,
+                "comprovacaoEvento": true
+            }
+        },
+        {
+            "id": 17,
+            "tipo": "sustentavel",
+            "descricao": "Financiamento para projetos sustentáveis",
+            "taxaJuros": 3.0,
+            "prazoMaximo": 180,
+            "valorMaximo": 1000000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "projetoAprovado": true
+            }
+        },
+        {
+            "id": 18,
+            "tipo": "agricola",
+            "descricao": "Financiamento agrícola",
+            "taxaJuros": 3.9,
+            "prazoMaximo": 240,
+            "valorMaximo": 500000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "propriedadeRural": true
+            }
+        },
+        {
+            "id": 19,
+            "tipo": "inovacao",
+            "descricao": "Financiamento para inovação tecnológica",
+            "taxaJuros": 2.8,
+            "prazoMaximo": 120,
+            "valorMaximo": 300000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "projetoAprovado": true
+            }
+        },
+        {
+            "id": 20,
+            "tipo": "expansaoNegocio",
+            "descricao": "Financiamento para expansão de negócios",
+            "taxaJuros": 4.4,
+            "prazoMaximo": 180,
+            "valorMaximo": 2000000,
+            "requisitos": {
+                "idadeMinima": 18,
+                "idadeMaxima": 70,
+                "comprovacaoFaturamento": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+* {
+    font-family: monospace;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr, td, th {
+    border: 1px solid black;
+    text-align: start;
+    padding: 3px;
+
+}
+
+th {
+    width: 300px;
+    background-color: rgb(5, 42, 72);
+    color: white;
+}
+
+form, label, input {
+    margin: 10px;
+}
+
+form {
+    background-color: #ededed;
+    width: 400px;
+    display: grid;
+}
+
+label, input {
+    display: block;
+}
+
+button {
+    background-color: rgb(5, 42, 72);
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}

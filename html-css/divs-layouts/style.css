@@ -1,0 +1,17 @@
+.div-1 {
+    height: 100vh;
+    background-color: #ededed;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-2 {
+    background-color: white;
+    width: 80%;
+}
+
+.div-3 {
+    background-color: gray;
+    color: white;
+    width: 20%;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="resultado">
+
+    </div>
+
+
+    <script>
+        const vendas = [
+            {
+                "produtos": "Coca-Cola, Pizza-G ",
+                "data": "Segunda",
+                "precos": "12.00, 88,00",
+                "usuario": "Alberto"
+            },
+            {
+                "produtos": "Guarana, Pizza-G ",
+                "data": "Segunda",
+                "precos": "12.00, 88,00",
+                "usuario": "Eric"
+            }
+        ];
+
+        const resultado = document.getElementById('resultado');
+        
+        vendas.forEach(element => {
+            const produtos =  element.produtos.split(", ");
+            
+            produtos.map(e => resultado.innerHTML += `
+                <p>${e} ${element.usuario}</p>
+            `)
+
+        });
+
+
+    </script>
+</body>
+
+</html>

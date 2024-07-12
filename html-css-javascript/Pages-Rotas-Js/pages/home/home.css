@@ -1,0 +1,36 @@
+.p-info {
+    font-size: 18px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.img-container img {
+    width: 200px;
+    border-radius: 10%;
+}
+
+.row-prices {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.col-prices {
+    width: 60%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.icon-wpp {
+    color: white;
+}
+
+.my-height {
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
