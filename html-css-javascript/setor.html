@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <label for="setor">Escolha o setor</label>
+
+    <select name="setor" id="setor">
+    </select>
+
+
+    <script>
+        const setores = ["Financeiro", "Administrativo", "TI"]
+
+        setores.map(e => document.getElementById('setor').innerHTML += `
+
+        <option value="">${e}</option>
+        `)
+    </script>
+
+</body>
+
+</html>
