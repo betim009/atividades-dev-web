@@ -1,0 +1,2770 @@
+{
+    "albums": {
+        "totalCount": 856,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                    "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2002
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:2LciHGWV93pPCSDIBqzPR7",
+                    "name": "Pique Racionais",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3vcNcwMasVwgv5jPfdUwaE",
+                                "profile": {
+                                    "name": "MC Digu"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:6DxZiufdSdVSptIGiQvFB2",
+                                "profile": {
+                                    "name": "Wilker"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:2TXfWr90cpiyJ1MHrwsjnQ",
+                                "profile": {
+                                    "name": "Gree Cassua"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025034a4948253132c363c1932",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515034a4948253132c363c1932",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735034a4948253132c363c1932",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2024
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1UzrzuOmZfBgXyS3pgKD10",
+                    "name": "Sobrevivendo no Inferno",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02dc04f429698834d0736ddb0a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851dc04f429698834d0736ddb0a",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273dc04f429698834d0736ddb0a",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1997
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:5gmsqaExyN56rGxJxY6yLX",
+                    "name": "Racionais 3 D\u00e9cadas",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023983db74c63dc4807f2da6a5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513983db74c63dc4807f2da6a5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733983db74c63dc4807f2da6a5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:4ZpCZs3zu8tFnJL0vrQIh1",
+                    "name": "BOY",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4AGwPDdh1y8hochNzHy5HC",
+                                "profile": {
+                                    "name": "RAC"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bbf1293cad9fb99b78bbbff6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bbf1293cad9fb99b78bbbff6",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bbf1293cad9fb99b78bbbff6",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2020
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:4QvlTHd5GdQje8nxm9Bude",
+                    "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e028350be94f5a06fd1a02680aa",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048518350be94f5a06fd1a02680aa",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738350be94f5a06fd1a02680aa",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2006
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:2QMZRtm35gtG3ZJs0yl9EM",
+                    "name": "Raio X do Brasil",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02998c83318759250a42d0545c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851998c83318759250a42d0545c",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273998c83318759250a42d0545c",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1993
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1CYfSGAq6xQNF5V8CAeP7m",
+                    "name": "Cores & Valores",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d3ce637e1eddd448836ba8f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d3ce637e1eddd448836ba8f",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d3ce637e1eddd448836ba8f",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2014
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1nuZiJrGdPaY7PPFHdN746",
+                    "name": "Racionais Ao Vivo",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02f4c6c11804fd136dc87b1a23",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851f4c6c11804fd136dc87b1a23",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f4c6c11804fd136dc87b1a23",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2002
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:7J9wATH6I891OTHteIWSEj",
+                    "name": "Racional (Vol 1)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0jOs0wnXCu1bGGP7kh5uIu",
+                                "profile": {
+                                    "name": "Tim Maia"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02df46b14a6df80e9e5f0017cd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851df46b14a6df80e9e5f0017cd",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273df46b14a6df80e9e5f0017cd",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1975
+                    }
+                }
+            }
+        ]
+    },
+    "artists": {
+        "totalCount": 805,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                    "profile": {
+                        "name": "Racionais MC's"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb43a0d1ae0af71095fcb26726",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f17843a0d1ae0af71095fcb26726",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000517443a0d1ae0af71095fcb26726",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:4Yk5z7Rx5VoI8tabuo8R35",
+                    "profile": {
+                        "name": "Racionais"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735d8b0a6a59df549354f9eb7d",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515d8b0a6a59df549354f9eb7d",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025d8b0a6a59df549354f9eb7d",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:1xxS2WrLlgl9QNGEUCsbPG",
+                    "profile": {
+                        "name": "Tribo da Periferia"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebb725839945e2523e38ee7141",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178b725839945e2523e38ee7141",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174b725839945e2523e38ee7141",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:4OSnjrcFCcrnPDJvRer3gQ",
+                    "profile": {
+                        "name": "Racionais do Samba"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b161c862227a7697fa95f057",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b161c862227a7697fa95f057",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b161c862227a7697fa95f057",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:1vEN3d3dJbmdHQpXD6AIkL",
+                    "profile": {
+                        "name": "Marcelo D2"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb95500cbae46164bb987cacde",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f17895500cbae46164bb987cacde",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000517495500cbae46164bb987cacde",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:3hSE2HZRom9EbMtLiztK2H",
+                    "profile": {
+                        "name": "Compostos Org\u00e2nicos Racionais"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735ed1e176741857f5ccef22da",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515ed1e176741857f5ccef22da",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025ed1e176741857f5ccef22da",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:5deK5HnwbEKvge2svL0i0B",
+                    "profile": {
+                        "name": "Sabotage"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebcdc54a4aa9383da888b4f341",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178cdc54a4aa9383da888b4f341",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174cdc54a4aa9383da888b4f341",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:3gXQuRmgpKZOKa6PZAuNnA",
+                    "profile": {
+                        "name": "Edi Rock Racionais"
+                    },
+                    "visuals": {
+                        "avatarImage": null
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:6q7runGLiFwkJ0jg50Apo5",
+                    "profile": {
+                        "name": "Mc Yoshi"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d0f0ccf7a08c5c907f61583",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d0f0ccf7a08c5c907f61583",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d0f0ccf7a08c5c907f61583",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:2Og2Sct9OkLYNk6S0Yme2b",
+                    "profile": {
+                        "name": "Culto Racional"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733f626479b1d5b4fb7592fa00",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513f626479b1d5b4fb7592fa00",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023f626479b1d5b4fb7592fa00",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "episodes": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:episode:5u1Uwfb3KkznVwXPYewqNg",
+                    "name": "RACIONAIS DO PLUG V1",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d2672dfb7cc626ad542888300",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2672dfb7cc626ad542888300",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a2672dfb7cc626ad542888300",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 192261
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-01-02T22:15:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68df991bfb9db6ba6dec01a1b7a",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff991bfb9db6ba6dec01a1b7a",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8af991bfb9db6ba6dec01a1b7a",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "uh",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:1bSSfg9iLJc08WtJaYbCDP",
+                    "name": "90's Hip Hop \ud83c\udf9b Classics \ud83d\udc68\ud83c\udfff\u200d\ud83c\udfa4 ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dd90253fc5f0f1590dc32df01",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd90253fc5f0f1590dc32df01",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ad90253fc5f0f1590dc32df01",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 3584416
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-01-22T15:08:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d780c68cbfb7c40a16fd58498",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f780c68cbfb7c40a16fd58498",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a780c68cbfb7c40a16fd58498",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Bienvenidos a nuestro episodio sobre el Hip Hop de los 90's. En este episodio, exploraremos la era dorada del hip hop y recordaremos a algunos de los artistas m\u00e1s ic\u00f3nicos de la d\u00e9cada como: *Vanilla Ice \/ Ice Ice Baby *Naughty by nature \/ Hip Hop Hooray *House of pain \/ Jump Around *Beastie Boys \/ Sure Shot *Coolio \/ Gangsta's paradise *The notorious B.I.G \/ mo money mo problems Y muchos otros mas, as\u00ed que si\u00e9ntete libre de relajarte, poner tus auriculares y viajar con nosotros a trav\u00e9s del tiempo para recordar el Hip Hop de los 90's.  ---   Support this podcast: https:\/\/podcasters.spotify.com\/pod\/show\/vinylradio\/support",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0FLPHIoiss3wjAJQF5Ol7G",
+                    "name": "RACIONAIS DO PLUG V2",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d64b21d10de54792cccee54dd",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64b21d10de54792cccee54dd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a64b21d10de54792cccee54dd",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 260336
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-05-10T23:35:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68df991bfb9db6ba6dec01a1b7a",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff991bfb9db6ba6dec01a1b7a",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8af991bfb9db6ba6dec01a1b7a",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "PLUG MYSTICO!",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:7nmtJcRxdP9KaTqoNxjLFA",
+                    "name": "Por que as supersti\u00e7\u00f5es persistem mesmo nas pessoas mais racionais?",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dbd51bb2a9fe1f3d4bef43653",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd51bb2a9fe1f3d4bef43653",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8abd51bb2a9fe1f3d4bef43653",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 871728
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-05-16T19:15:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d281757db9eca645fd8890ed8",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f281757db9eca645fd8890ed8",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a281757db9eca645fd8890ed8",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Quando falamos de supersti\u00e7\u00e3o pensamos em h\u00e1bitos e cren\u00e7as datadas e antigas, longe da racionalidade. Por\u00e9m, um estudo recente sugere que pouqu\u00edssimas pessoas s\u00e3o realmente livres de alguma supersti\u00e7\u00e3o. Seja com uma caneta da sorte para fazer uma prova, bater na madeira 3 vezes ou co\u00e7ar a m\u00e3o lembrando que \u00e9 sinal de dinheiro vindo, essas a\u00e7\u00f5es exigem algum n\u00edvel de tempo ou esfor\u00e7o, ent\u00e3o por que perpetuamos elas no dia a dia?",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:3aaf4KLHkFvN571lZYCNjL",
+                    "name": "A TRAJET\u00d3RIA DE UM DOS RAPPERS DO RACIONAI'S MC: EDI ROCK | JOTA JOTA PODCAST #123",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d2f0550c6283bb8b33fbddc77",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2f0550c6283bb8b33fbddc77",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a2f0550c6283bb8b33fbddc77",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 6820266
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-07-22T08:05:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d13eb79027efb630fe4968471",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f13eb79027efb630fe4968471",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a13eb79027efb630fe4968471",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "QUER SE DESTACAR NO SEU TRABALHO E GANHAR RECONHECIMENTO, MAS N\u00c3O SABE COMO? INSCREVA-SE AGORA NO TREINAMENTO A TR\u00cdADE DO SUCESSO: https:\/\/performan-c.com\/trd-descricao-yt No epis\u00f3dio de hoje, vamos receber o renomado rapper e fundador do Racionais MC\u2019s EDI ROCK, para falar sua trajet\u00f3ria e carreira de sucesso. Vamos descobrir o que tem por tr\u00e1s da mente que escreveu sucessos como \"M\u00e1gico de Oz\" ,\"Tempos Dif\u00edceis\", \"Negro Drama\", \"A Vida \u00e9 Desafio\", \"Rapaz Comum\u201d e \u201cThat\u2019s My Way\u201d. Envia esse epis\u00f3dio para quem tamb\u00e9m \u00e9 f\u00e3 do Edi Rock e do Racionais MC\u2019s. Inscreva-se no canal e ative as notifica\u00e7\u00f5es para n\u00e3o perder nenhum v\u00eddeo. \ud83c\udf99\ufe0fHost: Joel Jota Convidados: Edi Rock \ud83d\udce2Anuncie marca no Jota Jota Podcast: comercial@joeljota.com \u2714\ufe0fContrate a palestra do Joel Jota para seu evento: http:\/\/bit.ly\/palestrasjoeljota",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:1el388iIQqzZV1ibxHL0u9",
+                    "name": "RXPJXZZ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d5b4020559a05b83f674764f6",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b4020559a05b83f674764f6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a5b4020559a05b83f674764f6",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 173290
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-02-24T05:52:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d5b4020559a05b83f674764f6",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b4020559a05b83f674764f6",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a5b4020559a05b83f674764f6",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "RXPJXZZ",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:7gWWr9ZokRW7kX1WRWmweJ",
+                    "name": "Trabalho de Artes",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d436fb89398c13034c6d436f5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f436fb89398c13034c6d436f5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a436fb89398c13034c6d436f5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 402773
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-09-05T21:24:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d436fb89398c13034c6d436f5",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f436fb89398c13034c6d436f5",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a436fb89398c13034c6d436f5",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Trabalho de Artes - 06\/09",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:1nR9cVuvSZIDfEJkWQt3Mz",
+                    "name": "Nego Drama - Racionais MC's ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68daaf25d165b402bf8fba53246",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaf25d165b402bf8fba53246",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aaaf25d165b402bf8fba53246",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 532271
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-05-20T15:52:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68daaf25d165b402bf8fba53246",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaf25d165b402bf8fba53246",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aaaf25d165b402bf8fba53246",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "No epis\u00f3dio de hoje, mergulharemos fundo em uma das m\u00fasicas mais emblem\u00e1ticas e poderosas do rap brasileiro: \"Nego Drama\", dos Racionais MC's. Lan\u00e7ada em 2002 no \u00e1lbum \"Nada Como um Dia Ap\u00f3s o Outro Dia\", essa can\u00e7\u00e3o n\u00e3o apenas marcou a trajet\u00f3ria do grupo, mas tamb\u00e9m se tornou um hino de resist\u00eancia e den\u00fancia social. Com suas letras incisivas e realistas, \"Nego Drama\" aborda a complexidade da vida nas periferias, o racismo, a viol\u00eancia e a luta cont\u00ednua por dignidade. Preparem-se para uma an\u00e1lise estrofe por estrofe dessa obra-prima, onde exploraremos cada verso e desvendaremos as camadas de significado e emo\u00e7\u00e3o por tr\u00e1s dessa poderosa narrativa musical. Acompanhem-nos nessa jornada atrav\u00e9s do universo dos Racionais MC's e sua impactante mensagem em \"Nego Drama\".",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0shaBvQYmvShQKlXg108xy",
+                    "name": "Jesus chorou - Racionais Mc's",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dc36b480fa6ee1c5f0b9c8a8f",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc36b480fa6ee1c5f0b9c8a8f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ac36b480fa6ee1c5f0b9c8a8f",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 298120
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-03-04T18:31:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dc36b480fa6ee1c5f0b9c8a8f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc36b480fa6ee1c5f0b9c8a8f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ac36b480fa6ee1c5f0b9c8a8f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Um pouco sobre o grupo Racionais.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:2vnWoRAD6kRuXad1rVnuSn",
+                    "name": "N\u00c3O TEMOS ESCOHLA X KIKA KIKA SEM PARAR",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d282e0a5dfab300dde2eaa98f",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f282e0a5dfab300dde2eaa98f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a282e0a5dfab300dde2eaa98f",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 135534
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-06-21T21:26:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d78e7f3e758b433f46b505752",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78e7f3e758b433f46b505752",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a78e7f3e758b433f46b505752",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Nice podcast",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            }
+        ]
+    },
+    "genres": {
+        "totalCount": 0,
+        "items": []
+    },
+    "playlists": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:0idslg5VGvhHGjFAyGKCCZ",
+                    "name": "RACIONAIS - S\u00d3 AS MELHORES",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Paulim"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0EQUL6qJaQl17Dt4XO3nbE",
+                    "name": "GRELO DA SERESTA 2024 - GRELO DA SERESTA VIDA LOKA, seresta dos racionais , \u00e9 o grelo",
+                    "description": "grelo da seresta, racionais da seresta, grelo da seresta vida loka, seresta do racionais, \u00e9 o grelo, Dias de luta dias de gl\u00f3ria, grelo da seresta, grelo 2024, mano brown do arrocha, racionais seresta, \u00e9 o grelo, o grelo, grilo \ud83e\udd97, eu queria mudar, vida loka, grilo da seresta",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da849ed1f1e9c0d77f98535175c3",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "iuXan"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1EIULw8QFyDYZZ",
+                    "name": "Racionais MC's Mix",
+                    "description": "<a href=spotify:playlist:37i9dQZF1EIZ5IHY3R5J9P>Sabotage<\/a>, <a href=spotify:playlist:37i9dQZF1EIW3DX4xnRfug>Trilha Sonora do Gueto<\/a> and <a href=spotify:playlist:37i9dQZF1EIYxfqM6CfFrB>Ndee Naldinho<\/a>",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/seed-mix-image.spotifycdn.com\/v6\/img\/artist\/29CQLw9uLWsl8Qkz9holfr\/en\/default",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1DZ06evO1dVsYw",
+                    "name": "This Is Racionais MC's",
+                    "description": "This is Racionais MC's. Todos os maiores hits em uma s\u00f3 playlist.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/thisis-images.spotifycdn.com\/37i9dQZF1DZ06evO1dVsYw-default.jpg",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:2hKoOlxRqRdKEeCHNyYJcX",
+                    "name": "100% Racionais MC's",
+                    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e02439d4f2133d7bb56e4bc6f3bab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e029d3ce637e1eddd448836ba8fab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e02439d4f2133d7bb56e4bc6f3bab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e029d3ce637e1eddd448836ba8fab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e02439d4f2133d7bb56e4bc6f3bab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e029d3ce637e1eddd448836ba8fab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Maxs Santos"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:3GvQVEZaO726FARPVOqFfM",
+                    "name": "Brazilian Rap & Hip-Hop",
+                    "description": "Playlist de Rap &amp; Hip-Hop brasileiro por Rodrigo Braga. Com MV Bill, Racionais MC&#x27;s, Xis, Haikaiss, C\u00e2mbio Negro, Sabotage, De Leve, Costa Gold, RZO, Primeiramente, Marcelo D2, Cacife Clandestino, SP Funk, ConeCrewDiretoria, Jigaboo, entre outros.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da848538db25190c12007b166b1b",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Rodrigo Braga"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:7Dr8koJYXXCpnteSGop8Vn",
+                    "name": "racionais ,tribo da periferia e Hungria \ud83d\ude0e",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e028e3d143fe12378af99cebd42ab67616d00001e02998c83318759250a42d0545cab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e028e3d143fe12378af99cebd42ab67616d00001e02998c83318759250a42d0545cab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e02497e68476e7062b1bf5ea83fab67616d00001e028e3d143fe12378af99cebd42ab67616d00001e02998c83318759250a42d0545cab67616d00001e02dc04f429698834d0736ddb0a",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "J\u00fah Santtos"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0aLf7JJPpIcXbuXufW04xo",
+                    "name": "Racionais Mc",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Jarlisson"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1E4xyTtKBEOsE1",
+                    "name": "R\u00e1dio de Racionais MC's",
+                    "description": "Com Sabotage, Fac\u00e7\u00e3o Central, MV Bill e mais",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/seeded-session-images.scdn.co\/v2\/img\/540\/r\/artist\/29CQLw9uLWsl8Qkz9holfr\/pt",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1EIXeRGyqxP5Jh",
+                    "name": "Rationalistas Mix",
+                    "description": "<a href=spotify:playlist:37i9dQZF1EIV1zG7aRGEkc>TNT<\/a>, <a href=spotify:playlist:37i9dQZF1EIXIntighKRIJ>sponty.<\/a> and <a href=spotify:playlist:37i9dQZF1EIVCi4eE3USiz>Incognito M.<\/a>",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/seed-mix-image.spotifycdn.com\/v6\/img\/artist\/1NTEiH7TTY7IGwW9fbqgrh\/en\/default",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            }
+        ]
+    },
+    "podcasts": {
+        "totalCount": 884,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:show:0TqIexbPyzuzVLpVOgteQn",
+                    "name": "Racionais ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d799c6df02421469f5fdd1cd2",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f799c6df02421469f5fdd1cd2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a799c6df02421469f5fdd1cd2",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Matheus"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4hmjwUbiPmY5F14x2QVzrA",
+                    "name": "Racionais",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68df891afe2adeb786d866f9cac",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff891afe2adeb786d866f9cac",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8af891afe2adeb786d866f9cac",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "racionais"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:1CmQz4B8rXhGivwsGRvXir",
+                    "name": "pr\u00e9vias raf\u00e3o",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d2d38eab908de1b48e207e31b",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d38eab908de1b48e207e31b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a2d38eab908de1b48e207e31b",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "rafael"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4CRyAXT7AwYADr3R3CKSxX",
+                    "name": "Racionais MCs Vida Loka Pt 1 - Meu Podcast ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d436fb89398c13034c6d436f5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f436fb89398c13034c6d436f5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a436fb89398c13034c6d436f5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Luigi Alves Bortoloto"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:46cA1vdVaEWzBSllmcTjbf",
+                    "name": "sstlkkkrr",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d1a59d56da44566d083a61ada",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1a59d56da44566d083a61ada",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a1a59d56da44566d083a61ada",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "kingvamp"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:2fuivOkwI7JrwJstz4DnS3",
+                    "name": "Racionais",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d51e1d3f48118c75093f4d7f6",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f51e1d3f48118c75093f4d7f6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a51e1d3f48118c75093f4d7f6",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "\u00cdris Silva"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:2rUp1dfUkqUQKmpTfppDtb",
+                    "name": "\u1d04\ua730-\u1d04\u1d0f\u0280\u0280\u026a\u1d05\u1d0f\ua731 \ua730\u026a\u029f\u1d1b\u0280\u1d00\u1d05\u1d0f\ua731",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68da3696d630f160617f9d77665",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa3696d630f160617f9d77665",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aa3696d630f160617f9d77665",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Gavy Montana"
+                    },
+                    "mediaType": "MIXED"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4QaIwwx6Jx4mv40kgJ6GxE",
+                    "name": "Expectativas Racionais",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68de0753395fbcda00811eaa996",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0753395fbcda00811eaa996",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ae0753395fbcda00811eaa996",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Expectativas Racionais"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:3BobFHZHgGmLu4l3d1YBUz",
+                    "name": "Funk \u2620\ufe0f",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d1361180c4d6e5b74684a7d64",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1361180c4d6e5b74684a7d64",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a1361180c4d6e5b74684a7d64",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Chilecod"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:6jdaebAy5xEPQWO2pZkwWU",
+                    "name": "Hist\u00f3ria Dos Racionais Mc's",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68df616cb10e7a169e06c296df7",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff616cb10e7a169e06c296df7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8af616cb10e7a169e06c296df7",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "SHOW",
+                    "publisher": {
+                        "name": "\u00c9rica, Ketllyn, Yasmin, Anna Beatriz e Kaline "
+                    },
+                    "mediaType": "AUDIO"
+                }
+            }
+        ]
+    },
+    "topResults": {
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:6m8AgjfI28ER6odzMxmHtR",
+                    "id": "6m8AgjfI28ER6odzMxmHtR",
+                    "name": "Vida Loka, Pt. 1",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=GYYqDWWLTD6tniosQ9kv7g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 303560
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:4mZu6NuOntvYZqCZPrxTqT",
+                    "id": "4mZu6NuOntvYZqCZPrxTqT",
+                    "name": "A Vida \u00c9 Desafio",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=GYYqDWWLTD6tniosQ9kv7g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:6iFQ7pCJ0ohIAdeu5gi46z",
+                                "profile": {
+                                    "name": "Afro-X"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 433200
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:4nTrxp4aH0g2yLVPkFmljF",
+                    "id": "4nTrxp4aH0g2yLVPkFmljF",
+                    "name": "Vida Loka, Pt. 2",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=GYYqDWWLTD6tniosQ9kv7g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 350560
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                    "profile": {
+                        "name": "Racionais MC's"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb43a0d1ae0af71095fcb26726",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f17843a0d1ae0af71095fcb26726",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000517443a0d1ae0af71095fcb26726",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0idslg5VGvhHGjFAyGKCCZ",
+                    "name": "RACIONAIS - S\u00d3 AS MELHORES",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Paulim"
+                    }
+                }
+            }
+        ],
+        "featured": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1DZ06evO1dVsYw",
+                    "name": "This Is Racionais MC's",
+                    "description": "This is Racionais MC's. Todos os maiores hits em uma s\u00f3 playlist.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/thisis-images.spotifycdn.com\/37i9dQZF1DZ06evO1dVsYw-default.jpg",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1E4xyTtKBEOsE1",
+                    "name": "R\u00e1dio de Racionais MC's",
+                    "description": "Com Sabotage, Fac\u00e7\u00e3o Central, MV Bill e mais",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/seeded-session-images.scdn.co\/v2\/img\/540\/r\/artist\/29CQLw9uLWsl8Qkz9holfr\/pt",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            }
+        ]
+    },
+    "tracks": {
+        "totalCount": 894,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:6m8AgjfI28ER6odzMxmHtR",
+                    "id": "6m8AgjfI28ER6odzMxmHtR",
+                    "name": "Vida Loka, Pt. 1",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 303560
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:4mZu6NuOntvYZqCZPrxTqT",
+                    "id": "4mZu6NuOntvYZqCZPrxTqT",
+                    "name": "A Vida \u00c9 Desafio",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:6iFQ7pCJ0ohIAdeu5gi46z",
+                                "profile": {
+                                    "name": "Afro-X"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 433200
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:4nTrxp4aH0g2yLVPkFmljF",
+                    "id": "4nTrxp4aH0g2yLVPkFmljF",
+                    "name": "Vida Loka, Pt. 2",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 350560
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5wZUvwWGKaZ6NG8yckZcTM",
+                    "id": "5wZUvwWGKaZ6NG8yckZcTM",
+                    "name": "Jesus Chorou",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 471253
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:3ytXzEJFeVydFfmUhHvti8",
+                    "id": "3ytXzEJFeVydFfmUhHvti8",
+                    "name": "Negro Drama",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 411866
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:769HGPoAtahw1ynd4beWn6",
+                    "id": "769HGPoAtahw1ynd4beWn6",
+                    "name": "Racionais",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:28q6IHl8MmPNCuS4ygBKNA",
+                        "name": "Omert\u00e0",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0240bc998947d99c21dbf82bba",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485140bc998947d99c21dbf82bba",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27340bc998947d99c21dbf82bba",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "28q6IHl8MmPNCuS4ygBKNA",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/28q6IHl8MmPNCuS4ygBKNA?si=sZQm4VuFTsChZKuAe1JNhg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6ZnwtQznVleZpEkQINdyfG",
+                                "profile": {
+                                    "name": "Akira Presidente"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1HNVz8Sg0CzK1um1QNB7qS",
+                                "profile": {
+                                    "name": "CHF"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:3FmYE3Kl96IxyHiTulRlxh",
+                                "profile": {
+                                    "name": "Ain\u00e1"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:064WxKBb5PxUQpy6NGr3Jq",
+                                "profile": {
+                                    "name": "Juy\u00e8"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 248888
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1TVO8BtdgHennpDPB0aQmU",
+                    "id": "1TVO8BtdgHennpDPB0aQmU",
+                    "name": "Racionais",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2cYne4DUGLh0JF1ij4rv6Y",
+                        "name": "Malokeragem",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02d550b6174106b0acc1e8e202",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851d550b6174106b0acc1e8e202",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273d550b6174106b0acc1e8e202",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2cYne4DUGLh0JF1ij4rv6Y",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/2cYne4DUGLh0JF1ij4rv6Y?si=lNKjvoJ7ScCUZlNVnfQRgQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:5s27i7oqhNWIcE4HeoVdq0",
+                                "profile": {
+                                    "name": "MC GP"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:3bpbNht7qJCmPo8sjVF3tA",
+                                "profile": {
+                                    "name": "Mc Kanhoto"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:74gBEMW9nABFurusi73PkB",
+                                "profile": {
+                                    "name": "DJ Kaio Mix"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 217870
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6Wt61AZLG0bN2KasopE2sj",
+                    "id": "6Wt61AZLG0bN2KasopE2sj",
+                    "name": "Capi\u0301tulo 4, Versi\u0301culo 3",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1UzrzuOmZfBgXyS3pgKD10",
+                        "name": "Sobrevivendo no Inferno",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02dc04f429698834d0736ddb0a",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851dc04f429698834d0736ddb0a",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273dc04f429698834d0736ddb0a",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1UzrzuOmZfBgXyS3pgKD10",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/1UzrzuOmZfBgXyS3pgKD10?si=23EQsd6VQz2BpPMFJwMkgg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 486560
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:63piuNbKgyASwtlj3kq4ye",
+                    "id": "63piuNbKgyASwtlj3kq4ye",
+                    "name": "To\u0302 Ouvindo Algue\u0301m Me Chamar",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1UzrzuOmZfBgXyS3pgKD10",
+                        "name": "Sobrevivendo no Inferno",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02dc04f429698834d0736ddb0a",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851dc04f429698834d0736ddb0a",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273dc04f429698834d0736ddb0a",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1UzrzuOmZfBgXyS3pgKD10",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/1UzrzuOmZfBgXyS3pgKD10?si=23EQsd6VQz2BpPMFJwMkgg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 672773
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:77ZXEJcwC7r4gfodNwERJz",
+                    "id": "77ZXEJcwC7r4gfodNwERJz",
+                    "name": "Da Ponte pra C\u00e1",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4HcPzKyKVtcZCwJgesoZWn",
+                        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02497e68476e7062b1bf5ea83f",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851497e68476e7062b1bf5ea83f",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273497e68476e7062b1bf5ea83f",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4HcPzKyKVtcZCwJgesoZWn",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/4HcPzKyKVtcZCwJgesoZWn?si=-Bc0lGwdQvKNQ7rVvxZP2g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr",
+                                "profile": {
+                                    "name": "Racionais MC's"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 527360
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            }
+        ]
+    },
+    "users": {
+        "totalCount": 62,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:user:racionaiscn",
+                    "id": "racionaiscn",
+                    "displayName": "Racionais MC's",
+                    "username": "racionaiscn",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b821a1f34b229a0e6519c8e616c",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee851a1f34b229a0e6519c8e616c"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:31guyvfgwfazyu2mkmj3esnhu62q",
+                    "id": "31guyvfgwfazyu2mkmj3esnhu62q",
+                    "displayName": "racionais",
+                    "username": "31guyvfgwfazyu2mkmj3esnhu62q",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82d0de8b8fd5b4d9114ddf9153",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85d0de8b8fd5b4d9114ddf9153"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:racionais100808",
+                    "id": "racionais100808",
+                    "displayName": "racionais100808",
+                    "username": "racionais100808",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b8267b134b5717b1a19f8ad085f",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee8567b134b5717b1a19f8ad085f"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:v6603wwembxcttz5xatvyg2q8",
+                    "id": "v6603wwembxcttz5xatvyg2q8",
+                    "displayName": "F\u00e3 de Racionais",
+                    "username": "v6603wwembxcttz5xatvyg2q8",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82a7c04617cc79e3948c945c03",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85a7c04617cc79e3948c945c03"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:racionaismcs2",
+                    "id": "racionaismcs2",
+                    "displayName": "Lucas",
+                    "username": "racionaismcs2",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82784dea7db70db38a3644629f",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85784dea7db70db38a3644629f"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:31qqx67xhsk7y6o2vhb3t22l3tte",
+                    "id": "31qqx67xhsk7y6o2vhb3t22l3tte",
+                    "displayName": "Racionais MC's",
+                    "username": "31qqx67xhsk7y6o2vhb3t22l3tte",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b8251b54e54170ff9c1679b1c90",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee8551b54e54170ff9c1679b1c90"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:racionaismcs79",
+                    "id": "racionaismcs79",
+                    "displayName": "Matheus Dos Santos Oliveira",
+                    "username": "racionaismcs79",
+                    "image": {
+                        "smallImageUrl": "https:\/\/platform-lookaside.fbsbx.com\/platform\/profilepic\/?asid=893826717323393&height=50&width=50&ext=1724552569&hash=AbbBImbQ6wXffh4crtzSG3wy",
+                        "largeImageUrl": "https:\/\/platform-lookaside.fbsbx.com\/platform\/profilepic\/?asid=893826717323393&height=300&width=300&ext=1724552569&hash=AbY-iHZhMBus--zTLltDzKB1"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:31fkxwfjzhd3kxnbt2ygea7sqnjm",
+                    "id": "31fkxwfjzhd3kxnbt2ygea7sqnjm",
+                    "displayName": "maciel mc\u2019s racionais",
+                    "username": "31fkxwfjzhd3kxnbt2ygea7sqnjm",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82a2dcc1137a6cd190b76ef086",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85a2dcc1137a6cd190b76ef086"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:31xmpw7tidyujbvvtpok62w5rucu",
+                    "id": "31xmpw7tidyujbvvtpok62w5rucu",
+                    "displayName": "racionais MC's",
+                    "username": "31xmpw7tidyujbvvtpok62w5rucu",
+                    "image": {
+                        "smallImageUrl": null,
+                        "largeImageUrl": null
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:21bfj4xxjjrfqjs5cvtvwuzoa",
+                    "id": "21bfj4xxjjrfqjs5cvtvwuzoa",
+                    "displayName": "Ezequiel Racionais",
+                    "username": "21bfj4xxjjrfqjs5cvtvwuzoa",
+                    "image": {
+                        "smallImageUrl": "https:\/\/platform-lookaside.fbsbx.com\/platform\/profilepic\/?asid=175182296595605&height=50&width=50&ext=1724556890&hash=AbbNMFP80oEqtviUcUywZN3n",
+                        "largeImageUrl": "https:\/\/platform-lookaside.fbsbx.com\/platform\/profilepic\/?asid=175182296595605&height=300&width=300&ext=1724556890&hash=AbaSKQYQhkhpMuiAsLn4JvdK"
+                    }
+                }
+            }
+        ]
+    }
+}
