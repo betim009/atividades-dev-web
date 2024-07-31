@@ -1,0 +1,26 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    background-color: #ededed;
+    width: 100%;
+}
+
+thead {
+    background-color: #908b8b;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+p {
+    font-style: italic;
+}
+
+input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+}
