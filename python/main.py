@@ -170,6 +170,12 @@ def get_albuns_genre(genre):
     return new_songs  # ENCERRA UMA FUNÇÃO
 
 
-# CHAMADA da FUNÇÃO
-album = get_albuns_genre("Rap")
-album_1 = get_albuns_genre("Rock")
+def best_songs():
+    new_best_songs = []
+    for element in songs:
+        if element['rating'] > 4.7:
+            new_best_songs.append(element)
+    return new_best_songs
+
+        
+print(best_songs())
