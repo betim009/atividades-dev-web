@@ -1,0 +1,17 @@
+,id_song,name,artist,album,release_year,genre,duration,rating
+0,1,Otherside,Red Hot Chilli Peppers,Calinornication,1999,Rock,4.15,4.5
+1,2,Under the Bridge,Red Hot Chili Peppers,Calinornication,1991,Rock,4.24,4.8
+2,3,Californication,Red Hot Chili Peppers,Californication,1999,Rock,5.29,4.7
+3,4,Smells Like Teen Spirit,Nirvana,Nevermind,1991,Grunge,5.01,4.9
+4,5,Come as You Are,Nirvana,Nevermind,1991,Grunge,3.39,4.7
+5,6,Lithium,Nirvana,Nevermind,1991,Grunge,4.17,4.6
+6,7,In Bloom,Nirvana,Nevermind,1991,Grunge,4.14,4.8
+7,8,Heart-Shaped Box,Nirvana,In Utero,1993,Grunge,4.39,4.7
+8,9,Last Nite,The Strokes,Indie Vibe,2001,Indie Rock,3.12,4.6
+9,10,Someday,The Strokes,Indie Vibe,2001,Indie Rock,3.07,4.5
+10,11,Reptilia,The Strokes,Indie Vibe,2001,Indie Rock,3.41,4.8
+11,12,Under Cover of Darkness,The Strokes,Indie Vibe,2001,Indie Rock,3.58,4.7
+12,13,Vida Loka Parte 2,Racionais MC's,Sobrevivendo no Inferno,1997,Rap,4.4,4.9
+13,14,"Capítulo 4, Versículo 3",Racionais MC's,Sobrevivendo no Inferno,1997,Rap,3.55,4.8
+14,15,Negro Drama,Racionais MC's,Sobrevivendo no Inferno,1997,Rap,6.1,4.7
+15,15,Ceu azul,Charlie Brown Jr,Skate Vibration,2002,Rock,3.07,5
