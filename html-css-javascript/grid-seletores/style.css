@@ -1,0 +1,18 @@
+.container {
+    background-color: brown;
+    height: 600px;
+}
+
+.div-grid {
+    background-color: rgb(189, 212, 190);
+    height: 200px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 60px
+}
+
+.div-grid div {
+    background-color: red;
+    border-radius: 10%;
+}
