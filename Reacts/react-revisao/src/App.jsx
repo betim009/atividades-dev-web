@@ -1,14 +1,20 @@
-import { Routes, Route } from "react-router-dom"
-import Home from "./pages/Home"
-import Contato from "./pages/Contato"
+import { useContext } from "react"
+import Context from "./context/Context"
+import Titles from "./Titles";
+
+
+
 
 function App() {
+  const {valor, setValor} = useContext(Context);
+
+
+  console.log(valor)
   return (
     <>
-      <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/contato" element={<Contato />}/>
-      </Routes>
+    <h2>O valor é {valor}</h2>
+    <button onClick={() => setValor(valor + 1)}>+</button>
+    <Titles />
     </>
 
   )

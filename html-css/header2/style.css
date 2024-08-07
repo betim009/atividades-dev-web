@@ -1,0 +1,73 @@
+* {
+   margin: 0; 
+}
+
+header {
+    background-color: rgb(11, 11, 102);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: center;
+}
+
+.div-1 {
+    background-color: rgb(95, 118, 173);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-2 {
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    max-width: 400px;
+}
+
+.carros {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    background-color: #ededed;
+    justify-content: center;
+}
+
+.carro {
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/* SE o tamanho da tela for menor que 600px */
+@media screen and (max-width: 1380px) {
+    .carros {
+        display: grid;
+        grid-template-columns: auto;
+        gap: 30px;
+        background-color: #ededed;
+        justify-content: center;
+    }
+
+    img {
+        max-width: 300px;
+    }
+    
+  }
