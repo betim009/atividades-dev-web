@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <nav>
+        <a href="#" class="navs">Primier</a>
+        <a href="#" class="navs">B</a>
+    </nav>
+
+    <div id="resultados">
+        <div id="loading">
+
+        </div>
+
+        <div id="resultado">
+
+        </div>
+    </div>
+
+
+    <script>
+        const times = ["A", "B", "C"]
+        const navs = document.querySelectorAll('.navs');
+
+        let loading = false;
+
+        function createTeams(teams) {
+            teams.map(e =>  document.getElementById('resultado').innerHTML += `
+                <p class="time">${e}</p>
+            `)
+        };
+
+
+        navs.forEach((elem) => {
+            elem.addEventListener('click', () => {
+                loading = true
+
+                if (loading) {
+                    document.getElementById('loading').innerHTML = "Loading"
+                };
+
+                if (elem.textContent === "Primier") {
+                    createTeams(times)
+                    const teams = document.querySelectorAll(".time");
+                    teams.forEach(e => {
+                        e.addEventListener('click', () => {
+                            alert("VAI DISPARAR UMA FUNÇÃO")
+                        })
+                    })
+
+
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>

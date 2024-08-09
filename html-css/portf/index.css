@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(12, 12, 99);
+    height: 180px;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+
+main {
+    background-color: #ededed;
+    height: 800px;
+}
+
+footer {
+    background-color: rgb(12, 12, 99);
+    height: 180px;
+}
