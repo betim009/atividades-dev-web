@@ -1,0 +1,25 @@
+button {
+  background-color: blue;
+  padding: 10px;
+  color: white;
+  width: 100px;
+  border-radius: 10px;
+  font-weight: bold;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.elements {
+  background-color: red;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.elements p {
+  width: 300px;
+}
