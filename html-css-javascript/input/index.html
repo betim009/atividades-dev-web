@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input</title>
+</head>
+<body>
+    <div id="jogadores">
+
+    </div>
+    <input type="text" onchange="filtro()" id="nomeJogador">
+
+
+    <script>
+        const jogadores = document.getElementById('jogadores');
+        const nomeJogador = document.getElementById('nomeJogador');
+
+        const data = ["Cr7", "Messi", "Lewandovisk", "Suarez", "Neymar", "Ibraihmovich"];
+
+        for (const element of data) {
+            jogadores.innerHTML += `
+                <p>${element}</p>
+            `
+        };
+
+        function filtro() {
+            const newData = data.filter(element => element === nomeJogador.value);
+            
+            for (const element of newData) {
+                jogadores.innerHTML = `
+                    <p>${element}</p>
+                `
+            }
+        };
+
+        
+    </script>
+</body>
+</html>
