@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carros</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+    
+    <div id="meusCarros">
+
+    </div>
+    <script>
+        const meusCarros = document.getElementById('meusCarros');
+        console.log(meusCarros);
+
+        const carros = [
+            {
+                "nome": "Tesla V1",
+                "model": "Tesla",
+                "preco": 30000.00,
+                "img": "https://cdn.motor1.com/images/mgl/Mk3qg6/s3/2017-tesla-roadster-deck-model-petersen-automotive-museum.jpg"
+            },
+
+            {
+                "nome": "Tesla V2",
+                "model": "Tesla",
+                "preco": 42000.00,
+                "img": "https://cdn.motor1.com/images/mgl/Mk3qg6/s3/2017-tesla-roadster-deck-model-petersen-automotive-museum.jpg"
+            }
+        ];
+
+        meusCarros.innerHTML += `<p>${carros[0].nome}</p>`
+        meusCarros.innerHTML += `<p>${carros[0].model}</p>`
+    </script>
+</body>
+</html>
