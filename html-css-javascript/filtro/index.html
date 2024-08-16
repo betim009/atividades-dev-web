@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" placeholder="Digite o nome do jogador" id="nome-jogador"> 
+    <button onclick="pesquisar()">Pesquisar</button>
+    <table>
+        <thead>
+            <th>Ano</th>
+            <th>Jogador</th>
+            <th>Gols e Assistências</th>
+        </thead>
+        <tbody id="tbody-jogadores">
+
+        </tbody>
+
+
+    </table>
+
+
+
+
+    <script>
+        // Base de dados
+        const estatisticas = [
+            { ano: 2000, jogador: "Zinedine Zidane", gols: 10, assistencias: 15 },
+            { ano: 2001, jogador: "David Beckham", gols: 12, assistencias: 18 },
+            { ano: 2002, jogador: "Ronaldo", gols: 25, assistencias: 5 },
+            { ano: 2003, jogador: "Thierry Henry", gols: 30, assistencias: 20 },
+            { ano: 2004, jogador: "Ronaldinho Gaúcho", gols: 20, assistencias: 12 },
+            { ano: 2005, jogador: "Frank Lampard", gols: 19, assistencias: 16 },
+            { ano: 2006, jogador: "Kaka", gols: 23, assistencias: 14 },
+            { ano: 2007, jogador: "Cristiano Ronaldo", gols: 42, assistencias: 10 },
+            { ano: 2008, jogador: "Lionel Messi", gols: 38, assistencias: 18 },
+            { ano: 2009, jogador: "Cristiano Ronaldo", gols: 35, assistencias: 9 },
+            { ano: 2010, jogador: "Lionel Messi", gols: 47, assistencias: 11 },
+            { ano: 2011, jogador: "Lionel Messi", gols: 53, assistencias: 24 },
+            { ano: 2012, jogador: "Lionel Messi", gols: 91, assistencias: 22 },
+            { ano: 2013, jogador: "Cristiano Ronaldo", gols: 69, assistencias: 15 },
+            { ano: 2014, jogador: "Cristiano Ronaldo", gols: 61, assistencias: 22 },
+            { ano: 2015, jogador: "Lionel Messi", gols: 58, assistencias: 23 },
+            { ano: 2016, jogador: "Luis Suárez", gols: 59, assistencias: 24 },
+            { ano: 2017, jogador: "Cristiano Ronaldo", gols: 53, assistencias: 13 },
+            { ano: 2018, jogador: "Lionel Messi", gols: 51, assistencias: 22 },
+            { ano: 2019, jogador: "Lionel Messi", gols: 50, assistencias: 19 },
+            { ano: 2020, jogador: "Robert Lewandowski", gols: 55, assistencias: 10 },
+            { ano: 2021, jogador: "Robert Lewandowski", gols: 48, assistencias: 9 },
+            { ano: 2022, jogador: "Kylian Mbappé", gols: 44, assistencias: 20 }
+        ];
+
+        const tabela = document.getElementById("tbody-jogadores");
+        const nomeJogador = document.getElementById("nome-jogador");
+
+        estatisticas.map(element => tabela.innerHTML += `
+            <tr> 
+                <td>${element.ano}</td>
+                <td>${element.jogador}</td>
+                <td>${element.gols}</td>
+            </tr>
+        `);
+
+
+
+        function pesquisar() {
+            // Filtro da busca
+            const resultado = estatisticas.filter(element => element.jogador === nomeJogador.value);
+            
+            // Verifica se o jogador não existe
+            if (resultado.length === 0) {
+                return alert("Não existe esse jogador!")
+            }
+
+
+            // Limpar a minha tabela
+            tabela.innerHTML = "";
+
+            // Criano o novo resultado
+            resultado.map(element => tabela.innerHTML += `
+            <tr> 
+                <td>${element.ano}</td>
+                <td>${element.jogador}</td>
+                <td>${element.gols}</td>
+            </tr>
+        `);
+
+        }
+
+
+    </script>
+</body>
+
+</html>
