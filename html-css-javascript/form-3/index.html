@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            display: grid;
+            grid-template-columns: auto auto;
+        }
+
+        form, label, input {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome" required>
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" required>
+
+        <label for="password-1">Digite uma senha:</label>
+        <input type="password" name="password" id="password-1">
+
+        <label for="password-2">Confirme a senha:</label>
+        <input type="password" name="password" id="password-2">
+
+        <button onclick="cadastro()">Cadastrar</button>
+    </form>
+
+    <p id="nome-resultado"></p>
+
+
+
+    <script>
+        let nomeInput = document.getElementById("nome");
+        let nomeResultado = document.getElementById("nome-resultado");
+
+        function cadastro() {
+            nomeResultado.textContent = nomeInput.value;
+        };
+    </script>
+</body>
+</html>

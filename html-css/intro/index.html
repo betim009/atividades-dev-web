@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    .p1 {
+        background-color: red;
+        margin: 100px;
+        padding-left: 100px;
+    }
+
+    .title1 {
+        background-color: blue;
+    }
+</style>
+
+<body>
+
+    <div id="app">
+
+    </div>
+
+
+
+
+    <script>
+        async function fetchApi() {
+            const url =
+                "https://transfermarket.p.rapidapi.com/clubs/list-by-competition?id=IT1&domain=de";
+            const options = {
+                method: "GET",
+                headers: {
+                    "x-rapidapi-key": "27bb0a1793msh18efee95ca561adp17c14ejsnb2b78c9d3300",
+                    "x-rapidapi-host": "transfermarket.p.rapidapi.com",
+                },
+            };
+
+            const req = await fetch(url, options);
+            const res = await req.json();
+            console.log(res)
+
+            const app = document.getElementById('app');
+
+            res.clubs.map(e => app.innerHTML += `
+                <p class="clubs">${e.name}</p>
+            `)
+
+            const clubs = document.querySelectorAll('.clubs');
+
+            clubs.forEach((element, index) => {
+                element.addEventListener('click', () => {
+                    alert(res.clubs[index].id)
+                })
+            })
+
+
+
+        }
+
+        fetchApi();
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Query</title>
+
+    <style>
+        .grid {
+            background-color: white;
+            display: grid;
+            grid-template-columns: 400px 400px;
+            gap: 50px;
+            justify-content: center;
+        }
+
+        .grid div {
+            background-color: red;
+        }
+
+        .grid-1 {
+            display: grid;
+            align-items: center;
+            text-align: center;
+        }
+
+        @media screen and (max-width: 900px) {
+            .grid {
+                display: grid;
+                grid-template-columns: 400px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+
+
+    <div class="grid">
+        <div class="grid-1">
+            <h2>Emergência climática
+                Por que o Oceano Pacífico mais quente é um alerta catastrófico para o mundo</h2>
+        </div>
+
+        <div class="grid-2">
+            <div>
+                <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, excepturi, harum dolore adipisci
+                    voluptatem eveniet numquam, eaque praesentium error a perferendis doloribus quo nemo reiciendis eum
+                    incidunt quibusdam soluta voluptas?</h2>
+            </div>
+
+            <div>
+                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quo illo perspiciatis at
+                    architecto. Veritatis iure vero, rerum corporis praesentium eum incidunt, recusandae doloribus,
+                    minima deserunt perspiciatis dolorem officia cumque.</h2>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+</body>
+
+</html>
