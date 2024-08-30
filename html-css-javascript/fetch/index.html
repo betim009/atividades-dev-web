@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1 id="titulo">fetch js</h1>
+
+    <button onclick="handleClick()" onmouseover="handleMouse()">Exibir</button>
+
+    <div id="lista">
+    </div>
+
+    <script>
+        // No topo da tela sempre declare os SELETORES
+        // SELETORES vão ser variaveis, que buscam elementos
+        // por ID ou por Classe
+        const lista = document.getElementById("lista");
+        const titulo = document.getElementById("titulo");
+
+        let exibir = true;
+        
+
+        async function getApi() {
+            const url = ("https://api.mercadolibre.com/sites/MLB/categories");
+
+            const req = await fetch(url);
+            const res = await req.json();
+
+            console.log(res);
+
+            for (const item of res) {
+                lista.innerHTML += `<h4> ${item.name} </h4>`
+            }
+        }
+
+        function handleClick() {
+            if (exibir === true) {
+                exibir = false;
+                return getApi();
+            }
+
+            if (exibir === false) {
+                lista.innerHTML = "";
+                return exibir = true;
+            }
+            
+        }
+
+    </script>
+</body>
+
+</html>

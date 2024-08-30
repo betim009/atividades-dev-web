@@ -1,42 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo</title>
+    <title>Document</title>
 </head>
+
 <body>
-    
-    <h1>Bem vindo ao nosso Aplicativo!</h1>
-    <p id="usuario"></p>
-    
-    <h4>Lista de tarefas</h4>
+    <input type="text" name="" id="txt">
+    <select name="" id="valor">
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+    </select>
+    <button onclick="alterar()">Alterar</button>
 
-    <input type="text" placeholder="nome da tarefa" id="tarefa">
-    <button onclick="minhaFuncao()">Cadastrar Tarefa</button>
-
-    <ol id="tarefas">
-        
-    </ol>
+    <p id="texto" class="text">Texto 1</p>
+    <p id="texto" class="text">Texto 2</p>
+    <p>Texto 3</p>
 
 
+    <button onclick="clickAqui('pokebola')">Click</button>
 
     <script>
-        // Variaveis
-        const usuario = "Alberto";
+        // SELETORES
+        const a = document.getElementById("texto");
+        const b = document.getElementsByClassName("text");
+        const c = document.getElementsByTagName("p");
+        const input = document.getElementById('valor');
+        const txt = document.getElementById('txt');
 
-        // Seletores -> qualquer get
-        const meuUsuario = document.getElementById("usuario");
-        const minhasTarefas = document.getElementById("tarefas");
-        const minhaTarefa = document.getElementById('tarefa');
 
-        // A manipulação da interface
-        meuUsuario.textContent = `Seja bem vindo ${usuario}.`;
-        
-        function minhaFuncao() {
-            minhasTarefas.innerHTML += `<li>${minhaTarefa.value}</li>` 
-        };
-        
+        function alterar() {
+            c[input.value].textContent = txt.value
+        }
+
+        function clickAqui(k) {
+            alert(k)
+        }
+
     </script>
 </body>
+
 </html>
