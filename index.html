@@ -1,46 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <style>
+       * {
+        font-size: 40px;
+       }
+    </style>
 </head>
-
 <body>
-    <input type="text" name="" id="txt">
-    <select name="" id="valor">
-        <option value="0">0</option>
-        <option value="1">1</option>
-        <option value="2">2</option>
-    </select>
-    <button onclick="alterar()">Alterar</button>
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email">
 
-    <p id="texto" class="text">Texto 1</p>
-    <p id="texto" class="text">Texto 2</p>
-    <p>Texto 3</p>
+    <br>
+
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password">
+
+    <button id="btn">Show</button>
 
 
-    <button onclick="clickAqui('pokebola')">Click</button>
-
-    <script>
-        // SELETORES
-        const a = document.getElementById("texto");
-        const b = document.getElementsByClassName("text");
-        const c = document.getElementsByTagName("p");
-        const input = document.getElementById('valor');
-        const txt = document.getElementById('txt');
-
-
-        function alterar() {
-            c[input.value].textContent = txt.value
-        }
-
-        function clickAqui(k) {
-            alert(k)
-        }
-
-    </script>
+    <script type="module" src="script.js"></script>
 </body>
-
 </html>
