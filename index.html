@@ -3,26 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Javascript</title>
 
     <style>
-       * {
-        font-size: 40px;
-       }
+        .title {
+            color: red;
+        }
+
+        #title {
+            font-size: 40px;
+        }
+
+        img {
+            width: 200px;
+        }
     </style>
 </head>
 <body>
-    <label for="email">Email</label>
-    <input type="email" name="email" id="email">
+    <h2>Minha loja</h2>
 
-    <br>
-
-    <label for="password">Password</label>
-    <input type="password" name="password" id="password">
-
-    <button id="btn">Show</button>
+    <div id="roupas">
+      
+    </div>
 
 
-    <script type="module" src="script.js"></script>
+
+
+    <script>
+        const listaRoupas = [
+            {nome: "Camisa A", price: 400, img: "https://bawclothing.vtexassets.com/arquivos/ids/205556-1240-1860/0073817040_01.jpg?v=637971384168900000"},
+            {nome: "Camisa B", price: 400, img: "https://bawclothing.vtexassets.com/arquivos/ids/205556-1240-1860/0073817040_01.jpg?v=637971384168900000"},
+            {nome: "Camisa C", price: 400, img: "https://bawclothing.vtexassets.com/arquivos/ids/205556-1240-1860/0073817040_01.jpg?v=637971384168900000"},
+            {nome: "Camisa D", price: 400, img: "https://bawclothing.vtexassets.com/arquivos/ids/205556-1240-1860/0073817040_01.jpg?v=637971384168900000"},
+        ];
+
+        const divRoupas = document.getElementById("roupas");
+
+        for(const roupa of listaRoupas){
+            divRoupas.innerHTML += `
+                <img src="${roupa.img}" />
+                <p>${roupa.nome}</p>
+            `
+        }
+        
+    </script>
 </body>
 </html>
