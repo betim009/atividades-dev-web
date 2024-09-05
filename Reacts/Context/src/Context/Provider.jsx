@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Context from "./Context";
+import PropTypes from "prop-types";
 
 export default function Provider({ children }) {
   const [usuario, setUsuario] = useState("Alberto");
@@ -9,8 +10,12 @@ export default function Provider({ children }) {
     usuario,
     setUsuario,
     valorTotal,
-    setValorTotal
+    setValorTotal,
   };
 
   return <Context.Provider value={contextValue}>{children}</Context.Provider>;
 }
+
+Provider.propTypes = {
+  children: PropTypes.node.isRequired,
+};
