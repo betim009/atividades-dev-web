@@ -14,7 +14,7 @@ export default function Provider({ children }) {
   }, []);
 
   useEffect(() => {
-    sessionStorage.setItem("valorTotal", valorTotal);
+    localStorage.setItem("valorTotal", valorTotal);
   }, [valorTotal]);
 
   const contextValue = {
