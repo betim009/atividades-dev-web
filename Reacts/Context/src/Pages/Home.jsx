@@ -11,14 +11,6 @@ export default function Home() {
 
   const { usuario, valorTotal, setValorTotal } = useContext(Context);
 
-  // Recuperar o valor do localStorage ao carregar a página
-  useEffect(() => {
-    const valorSalvo = localStorage.getItem("valorTotal");
-    if (valorSalvo) {
-      setValorTotal(valorSalvo);
-    }
-  }, [setValorTotal]);
-
   function handleClickRemove() {
     if (valorTotal <= 0) {
       return;
