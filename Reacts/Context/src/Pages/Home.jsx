@@ -1,15 +1,14 @@
 import { useContext } from "react";
 import Context from "../Context/Context";
-import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useCart } from "../hooks/useCart";
 
-export default function Home() {
-  const [data, setData] = useState({
-    produto: "Produto A",
-    preco: 15.99,
-  });
+const data = {
+  produto: "Produto A",
+  preco: 15.99,
+};
 
+export default function Home() {
   const { usuario, valorTotal } = useContext(Context);
   const { insert, remove } = useCart(data.preco);
 
