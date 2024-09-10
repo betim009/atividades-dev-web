@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,17 +16,58 @@
         img {
             width: 300px;
             height: 300px;
+            border-radius: 10% 10% 0 0;
+        }
+
+        .produtos {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            justify-content: space-evenly;
+        }
+
+        .produto {
+            background-color: #ededed;
+            text-align: center;
+            font-size: 24px;
+            font-family: sans-serif;
+            border-radius: 10% 10% 0 0;
+        }
+
+        .produto:hover {
+            zoom: 1.07;
+            cursor: pointer;
+        }
+
+        .painel {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        button {
+            height: 30px;
+            width: 30px;
+        }
+
+        .btn {
+            width: 140px;
+            height: 30px;
+            background-color: blue;
+            border: none;
+            font-weight: 600;
+            color: white;
         }
     </style>
 </head>
+
 <body>
 
     <h1 class="title" id="title">Meu App</h1>
-    <h2>Abaixo nosso produtos:</h2>
-
-    <div id="produtos">
+    <div id="produtos" class="produtos">
 
     </div>
+    <button class="btn">Finalizar a compra</button>
 
 
     <script>
@@ -54,14 +96,28 @@
 
         for (const item of data) {
             produtos.innerHTML += `
-                <img src="${item.img}" />
-                <p>${item.produto}</p>
-                <p>${item.preco}</p>
-                <p>${item.peso} gramas </p>
+                <div class="produto">
+                    <img src="${item.img}"/>
+                    <h3>${item.produto}</h3>
+                    <p>${item.preco}</p>
+                    <p>${item.peso} gramas</p>
+                    <div class="painel">
+                        <button>-</button>
+                        <p>0</p>
+                        <button>+</button>
+                    </div>
+                </div>
             `
         }
 
-        
+        const produto = document.querySelectorAll(".produto");
+        for (const item of produto) {
+            item.addEventListener("click", function() {
+                alert();
+            })
+        }
+
     </script>
 </body>
+
 </html>
