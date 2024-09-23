@@ -1,25 +1,16 @@
-import { useState } from "react";
-import NavBar from "../components/NavBar";
-import Form from "react-bootstrap/Form";
-import Container from "react-bootstrap/esm/Container";
-import Button from 'react-bootstrap/Button';
+import { useContext } from "react";
+import Context from "../context/Context";
+import { Link } from "react-router-dom";
 
 function Contato() {
-  const [valorInicial, setValorInicial] = useState("Fábio");
+  const { usuario, contador } = useContext(Context);
 
   return (
     <>
-      <NavBar />
-      <Container>
-        <h2>Página de Contato</h2>
-        <Form>
-          <Form.Group>
-            <Form.Label>Email:</Form.Label>
-            <Form.Control placeholder="Digite seu email" />
-          </Form.Group>
-          <Button>Enviar</Button>
-        </Form>
-      </Container>
+      <Link to="/">Voltar</Link>
+      <h2>Pagina de Contato</h2>
+      <p>{usuario} - {contador}</p>
+
     </>
   );
 }

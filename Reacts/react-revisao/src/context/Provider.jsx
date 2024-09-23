@@ -1,23 +1,18 @@
-import { useState } from "react";
 import Context from "./Context";
-
-
+import { useState } from "react";
 
 function Provider({ children }) {
-    const [valor, setValor] = useState(99)
+  const [usuario, setUsuario] = useState("Alberto");
+  const [contador, setContador] = useState(0);
 
+  const contextValue = {
+    usuario,
+    setUsuario,
+    contador,
+    setContador,
+  };
 
-    const contexValue = {
-        valor,
-        setValor
-    };
-
-    return (
-        <Context.Provider value={contexValue}>
-            {children}
-        </Context.Provider>
-    )
-
+  return <Context.Provider value={contextValue}>{children}</Context.Provider>;
 }
 
 export default Provider;
